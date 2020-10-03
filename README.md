@@ -17,7 +17,7 @@ For this purpose we can't use Spring and Hibernate/JPA, because those 2 not a li
 # Architecture
 ![architecture](architecture.png "architecture")
 
-#Performance
+# Performance
 https://piotrminkowski.com/2019/04/09/performance-comparison-between-spring-boot-and-micronaut
 
 # Alternatives

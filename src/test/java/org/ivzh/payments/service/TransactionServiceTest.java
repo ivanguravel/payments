@@ -22,7 +22,7 @@ import static org.ivzh.payments.model.transaction.TransactionType.CREDIT;
 import static org.ivzh.payments.model.transaction.TransactionType.DEBIT;
 
 /**
- * @author dayan.costa
+ * @author ivzh
  */
 class TransactionServiceTest {
 

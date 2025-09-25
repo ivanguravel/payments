@@ -1,4 +1,4 @@
-# Payments API for money send
+# Payments API for costs sending
 Simple API for sending money between accounts.
 
 # Tech problem 
